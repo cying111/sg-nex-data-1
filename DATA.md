@@ -44,5 +44,9 @@ Additional data will be made accessible here over time
 | K562   | 1        | direct cDNA      | [Fast5](http://s3.ap-southeast-1.amazonaws.com/ont-sgnex.store.genome.sg/fast5/GIS_K562_directcDNA_Replicate1_fast5.tar.gz) |
 | HepG2  | 1        | direct cDNA      | [Fast5](http://s3.ap-southeast-1.amazonaws.com/ont-sgnex.store.genome.sg/fast5/GIS_HepG2_directcDNA_Replicate1_fast5.tar.gz)|
 | HepG2  | 1        | PCR-cDNA         | [Fast5](http://s3.ap-southeast-1.amazonaws.com/ont-sgnex.store.genome.sg/fast5/GIS_HepG2_cDNA_Replicate1_fast5.tar.gz)      |
-| HepG2  | 1        | direct RNA       | [Fast5](http://s3.ap-southeast-1.amazonaws.com/ont-sgnex.store.genome.sg/fast5/GIS_HepG2_directRNA_Replicate1_fast5.tar.gz) |
+| HepG2  | 1        | direct RNA       | [Fast5](http://s3.ap-southeast-1.amazonaws.com/ont-sgnex.store.genome.sg/fast5/GIS_HepG2_directRNA_Replicate1_fast5.tar.gz) |   
+
+
+
+
 Notes on data usage: This site provides early access to the SG-NEx data for research. Please note that the data is under publication embargo until the SG-NEx project is published.
